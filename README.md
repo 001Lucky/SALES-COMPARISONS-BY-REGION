@@ -13,6 +13,6 @@ The project will focus on creating a dashboard to visualize the sales by compari
 ## Dataset used 
 dataset-<https://github.com/001Lucky/SALES-COMPARISONS-BY-REGION/blob/main/Sample%20-%20Superstore.xls> Sample_supperstore dataset-</a>
 ## Step by step processes to complete the task
-step by step -<https://github.com/001Lucky/SALES-COMPARISONS-BY-REGION/blob/main/ls_final%20tableau%20project%20screenshots-ls.pdf> Steps followed< a/>
+step by step -<https://github.com/001Lucky/SALES-COMPARISONS-BY-REGION/blob/main/ls_final%20tableau%20project%20screenshots-ls.pdf> Steps followed-<a/>
 ## Tools used 
 Excel and Tableau
