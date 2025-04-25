@@ -4,9 +4,12 @@ The project will focus on creating a dashboard to visualize the sales by compari
 ## Objectives
 •	Create a dashboard to visualize the sales comparison between two selected regions
 ## Outcome
-•	assessed the overall profitability trends.
-•	Identified the top-performing products, categories, and regions by sales.
-•	Detailed view of which states,cities and region are most profitable.
+•	Assessed the overall profitability trends by region.
+•	Identified top-performing products, categories, and regions based on sales and profit.
+•	Gained a better understanding of customer segments (Consumer, Corporate, Home Office) and their purchasing behavior.
+•	Delivered a detailed view of state-wise and city-level profitability, helping to guide marketing and resource allocation.
+•	Created an interactive Tableau dashboard that allows leadership to dynamically compare regions and draw actionable insights.
+
 ## Dataset used 
 dataset-<https://github.com/001Lucky/SALES-COMPARISONS-BY-REGION/blob/main/Sample%20-%20Superstore.xls> Sample_supperstore dataset-</a>
 ## Step by step processes to complete the task
